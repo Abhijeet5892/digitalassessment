@@ -1,0 +1,54 @@
+.city-addstate-container {
+    padding: 20px;
+  }
+  
+  .city-addstate-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .city-back-arrow-icon {
+    cursor: pointer;
+    margin-right: 10px;
+  }
+  
+  .city-addstate-form {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .city-input-box {
+    flex: 1;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 50px;
+    width: 300px;
+    box-sizing: border-box;
+  }
+  
+  .city-addstate-buttons {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 35%;
+    gap: 20px;
+  }
+  
+  .city-cancel-button, .city-save-button {
+    padding: 18px 36px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+  }
+  
+  .city-cancel-button {
+    background-color: #ccc;
+  }
+  
+  .city-save-button {
+    background-color: #662671;
+    color: white;
+  }
+  
+  

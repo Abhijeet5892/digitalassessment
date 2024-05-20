@@ -1,0 +1,60 @@
+.editwearhouse-addstate-container {
+    padding: 20px;
+  }
+  
+  .editwearhouse-addstate-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .editwearhouse-back-arrow-icon {
+    cursor: pointer;
+    margin-right: 10px;
+  }
+  
+  .editwearhouse-addstate-form {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .editwearhouse-addcity-form {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+    width: 300px;
+  }
+  .editwearhouse-input-box {
+    flex: 1;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 50px;
+    width: 300px;
+    box-sizing: border-box;
+  }
+  
+  .editwearhouse-addstate-buttons {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 30%;
+    gap: 20px;
+  }
+  
+  .editwearhouse-cancel-button, .editwearhouse-save-button {
+    padding: 18px 36px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+  }
+  
+  .editwearhouse-cancel-button {
+    background-color: #ccc;
+  }
+  
+  .editwearhouse-save-button {
+    background-color: #662671;
+    color: white;
+  }
+  
+  

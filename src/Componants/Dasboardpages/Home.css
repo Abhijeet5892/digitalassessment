@@ -1,0 +1,11 @@
+  
+  .center-content {
+    display: flex;
+    flex-direction: column;
+    padding-left: 300px;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    text-align: center;
+  }
+  
